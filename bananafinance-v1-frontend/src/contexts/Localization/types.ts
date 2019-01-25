@@ -15,4 +15,3 @@ export interface ContextApi extends ProviderState {
   t: (key: string, data?: ContextData) => string
 }
 
-// dummy comment
