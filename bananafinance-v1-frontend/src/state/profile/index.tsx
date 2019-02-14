@@ -59,4 +59,3 @@ export const fetchProfile = (address: string) => async (dispatch: AppDispatch) =
 
 export default profileSlice.reducer
 
-// dummy comment
