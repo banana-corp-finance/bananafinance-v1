@@ -5,4 +5,3 @@ export interface IUser {
     email: string;
 }
 
-// dummy comment
