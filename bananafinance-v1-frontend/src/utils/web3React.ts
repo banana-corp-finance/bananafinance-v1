@@ -55,4 +55,3 @@ export const signMessage = async (provider: any, account: string, message: strin
   return provider.getSigner(account).signMessage(message)
 }
 
-// dummy comment
