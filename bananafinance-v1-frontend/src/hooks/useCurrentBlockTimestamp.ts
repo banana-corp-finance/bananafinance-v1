@@ -7,3 +7,5 @@ export default function useCurrentBlockTimestamp(): BigNumber | undefined {
   const multicall = useMulticallContract()
   return useSingleCallResult(multicall, 'getCurrentBlockTimestamp')?.result?.[0]
 }
+
+// dummy comment
