@@ -8,4 +8,3 @@ export default function useCurrentBlockTimestamp(): BigNumber | undefined {
   return useSingleCallResult(multicall, 'getCurrentBlockTimestamp')?.result?.[0]
 }
 
-// dummy comment
