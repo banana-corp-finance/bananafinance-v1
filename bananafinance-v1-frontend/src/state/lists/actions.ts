@@ -22,4 +22,3 @@ export const disableList = createAction<string>('lists/disableList')
 export const acceptListUpdate = createAction<string>('lists/acceptListUpdate')
 export const rejectVersionUpdate = createAction<Version>('lists/rejectVersionUpdate')
 
-// dummy comment
