@@ -27,4 +27,3 @@ const fetchVaultUser = async (account: string) => {
 export default fetchVaultUser
 
 
-// dummy comment
