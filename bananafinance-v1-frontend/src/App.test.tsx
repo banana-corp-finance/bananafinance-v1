@@ -8,4 +8,3 @@ it('renders without crashing', () => {
   ReactDOM.unmountComponentAtNode(div);
 });
 
-// dummy comment
