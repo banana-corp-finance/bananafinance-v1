@@ -41,4 +41,3 @@ export const fetchAchievements = (account: string) => async (dispatch: Dispatch)
 export default achievementSlice.reducer
 
 
-// dummy comment
