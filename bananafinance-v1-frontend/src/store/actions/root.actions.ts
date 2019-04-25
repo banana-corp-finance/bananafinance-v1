@@ -14,4 +14,3 @@ interface IUpdateCurrentPathActionType { type: string, area: string, subArea: st
 
 
 
-// dummy comment
