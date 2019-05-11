@@ -43,4 +43,3 @@ describe('application reducer', () => {
 
 
 
-// dummy comment
