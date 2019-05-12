@@ -58,4 +58,3 @@ export default function Coingecko(props: SvgIconProps) {
 
 
 
-// dummy comment
