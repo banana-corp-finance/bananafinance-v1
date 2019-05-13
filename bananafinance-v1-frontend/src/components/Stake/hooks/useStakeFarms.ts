@@ -19,4 +19,3 @@ const useStakeFarms = (pair: string) => {
 export default useStakeFarms
 
 
-// dummy comment
