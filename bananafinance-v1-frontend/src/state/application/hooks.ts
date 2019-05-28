@@ -10,4 +10,3 @@ export function useBlockNumber(): number | undefined {
 
 export default useBlockNumber
 
-// dummy comment
