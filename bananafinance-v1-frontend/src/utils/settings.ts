@@ -44,3 +44,5 @@ export const setSetting = (account: string, newSetting: Partial<UserSettings>) =
   setSettings(account, { ...currentSettings, ...newSetting })
 }
 
+
+// dummy comment
