@@ -7,3 +7,5 @@ export const simpleRpcProvider = new ethers.providers.JsonRpcProvider(RPC_URL)
 // export const simpleRpcProvider = true
 
 // export default null
+
+// dummy comment
