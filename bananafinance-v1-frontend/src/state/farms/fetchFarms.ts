@@ -13,4 +13,3 @@ const fetchFarms = async (farmsToFetch: FarmConfig[]) => {
 
 export default fetchFarms
 
-// dummy comment
