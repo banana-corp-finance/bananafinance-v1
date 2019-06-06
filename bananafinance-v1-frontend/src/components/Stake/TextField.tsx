@@ -68,4 +68,3 @@ const CustomizedInputBase: React.FC<Props> = ({ value, setValue, maxValue }) => 
 
 export default CustomizedInputBase
 
-// dummy comment
