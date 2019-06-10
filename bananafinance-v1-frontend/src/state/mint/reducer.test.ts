@@ -35,4 +35,3 @@ describe('mint reducer', () => {
 
 
 
-// dummy comment
