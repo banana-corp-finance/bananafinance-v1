@@ -60,4 +60,3 @@ export function usePair(tokenA?: Currency, tokenB?: Currency): [PairState, Pair 
   return usePairs([[tokenA, tokenB]])[0]
 }
 
-// dummy comment
