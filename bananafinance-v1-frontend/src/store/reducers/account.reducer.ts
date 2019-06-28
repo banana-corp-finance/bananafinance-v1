@@ -21,4 +21,3 @@ function accountReducer(state: IAccount = initialState, action: IActionBase): IA
 
 
 export default accountReducer;
-// dummy comment
