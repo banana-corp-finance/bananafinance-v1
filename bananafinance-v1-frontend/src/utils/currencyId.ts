@@ -9,3 +9,5 @@ export function currencyId(currency: Currency): string {
 export default currencyId
 
 
+
+// dummy comment
