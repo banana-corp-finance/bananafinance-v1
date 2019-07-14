@@ -54,4 +54,3 @@ export default SelectInput;
 
 
 
-// dummy comment
