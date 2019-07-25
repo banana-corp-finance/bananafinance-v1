@@ -179,4 +179,3 @@ export interface LotteryTicketClaimData {
 }
 
 
-// dummy comment
