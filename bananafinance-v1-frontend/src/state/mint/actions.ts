@@ -9,4 +9,3 @@ export const typeInput = createAction<{ field: Field; typedValue: string; noLiqu
 export const resetMintState = createAction<void>('mint/resetMintState')
 
 
-// dummy comment
