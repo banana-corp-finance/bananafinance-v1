@@ -26,3 +26,5 @@ export const useGetProposalLoadingStatus = () => {
   const votingStatus = useSelector((state: State) => state.voting.proposalLoadingStatus)
   return votingStatus
 }
+
+// dummy comment
