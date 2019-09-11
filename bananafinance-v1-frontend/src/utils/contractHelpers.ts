@@ -136,3 +136,5 @@ export const getBunnySpecialPredictionContract = (signer?: ethers.Signer | ether
   return getContract(bunnySpecialPredictionAbi, getBunnySpecialPredictionAddress(), signer)
 }
 
+
+// dummy comment
