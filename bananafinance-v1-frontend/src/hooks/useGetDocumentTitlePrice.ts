@@ -10,4 +10,3 @@ const useGetDocumentTitlePrice = () => {
 }
 export default useGetDocumentTitlePrice
 
-// dummy comment
