@@ -9,3 +9,5 @@ const useGetDocumentTitlePrice = () => {
   }, [cakePriceBusd])
 }
 export default useGetDocumentTitlePrice
+
+// dummy comment
