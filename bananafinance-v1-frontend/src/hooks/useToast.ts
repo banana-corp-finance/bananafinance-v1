@@ -13,4 +13,3 @@ const useToast = () => {
 
 export default useToast
 
-// dummy comment
