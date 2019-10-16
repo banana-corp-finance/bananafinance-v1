@@ -17,4 +17,3 @@ export { MULTICALL_ABI, MULTICALL_NETWORKS }
 
 
 
-// dummy comment
