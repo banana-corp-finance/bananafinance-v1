@@ -21,4 +21,3 @@ export const useAchievements = () => {
   return achievements
 }
 
-// dummy comment
