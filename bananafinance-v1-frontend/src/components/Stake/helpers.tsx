@@ -89,3 +89,5 @@ export const getPoolBlockInfo = (pool: Pool, currentBlock: number) => {
   const blocksToDisplay = hasPoolStarted ? blocksRemaining : blocksUntilStart
   return { shouldShowBlockCountdown, blocksUntilStart, blocksRemaining, hasPoolStarted, blocksToDisplay }
 }
+
+// dummy comment
