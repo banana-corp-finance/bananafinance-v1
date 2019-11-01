@@ -31,4 +31,3 @@ export const useGetProposalLoadingStatus = () => {
 
 
 
-// dummy comment
