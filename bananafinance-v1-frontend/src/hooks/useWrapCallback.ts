@@ -74,4 +74,3 @@ export default function useWrapCallback(
   }, [wethContract, chainId, inputCurrency, outputCurrency, inputAmount, balance, addTransaction])
 }
 
-// dummy comment
