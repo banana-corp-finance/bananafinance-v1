@@ -220,4 +220,3 @@ export const { setPoolsPublicData, setPoolsUserData, updatePoolsUserData } = Poo
 
 export default PoolsSlice.reducer
 
-// dummy comment
