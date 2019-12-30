@@ -317,4 +317,3 @@ describe('multicall reducer', () => {
 
 
 
-// dummy comment
