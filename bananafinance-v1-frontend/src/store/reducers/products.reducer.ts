@@ -69,4 +69,3 @@ function productsReducer(state: IProductState = initialState, action: IActionBas
 
 export default productsReducer;
 
-// dummy comment
