@@ -50,4 +50,3 @@ export interface ChainLinkOracleContract extends Contract {
 
 
 
-// dummy comment
