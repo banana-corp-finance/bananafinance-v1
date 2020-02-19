@@ -15,4 +15,3 @@ export { fetchStart, teamFetchSucceeded, fetchFailed, teamsFetchSucceeded } from
 export { setBlock } from './block'
 
 
-// dummy comment
