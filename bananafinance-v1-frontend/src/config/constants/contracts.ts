@@ -72,4 +72,3 @@ const contracts = {
 export default contracts
 
 
-// dummy comment
