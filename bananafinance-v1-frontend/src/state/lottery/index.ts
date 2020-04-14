@@ -136,4 +136,3 @@ export const { setLotteryPublicData } = LotterySlice.actions
 
 export default LotterySlice.reducer
 
-// dummy comment
