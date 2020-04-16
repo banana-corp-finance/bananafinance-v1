@@ -23,4 +23,3 @@ export function PrivateRoute({ children, ...rest }: RouteProps): JSX.Element {
 }
 
 
-// dummy comment
