@@ -77,4 +77,3 @@ export const fetchFarmUserEarnings = async (account: string, farmsToFetch: FarmC
 
 
 
-// dummy comment
