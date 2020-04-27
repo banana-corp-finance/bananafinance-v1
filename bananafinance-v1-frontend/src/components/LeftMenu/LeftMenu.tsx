@@ -240,4 +240,3 @@ const LeftMenu: React.FC<LeftMenuProps> = ({ setIsOpen, isOpen }) => {
 
 export default LeftMenu
 
-// dummy comment
