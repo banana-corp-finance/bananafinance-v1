@@ -171,3 +171,5 @@ export const useGetCollectibles = () => {
     nftsInWallet: Nfts.filter((nft) => identifiers.includes(nft.identifier)),
   }
 }
+
+// dummy comment
