@@ -44,4 +44,3 @@ interface ISetModificationStateActionType { type: string, value:  ProductModific
 interface IChangeProductAmountType {type: string, id: number, amount: number};
 
 
-// dummy comment
