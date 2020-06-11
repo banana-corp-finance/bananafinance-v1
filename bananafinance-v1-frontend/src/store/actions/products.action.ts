@@ -43,3 +43,5 @@ interface IClearSelectedProductActionType { type: string };
 interface ISetModificationStateActionType { type: string, value:  ProductModificationStatus};
 interface IChangeProductAmountType {type: string, id: number, amount: number};
 
+
+// dummy comment
