@@ -147,3 +147,5 @@ export const getAllVotes = async (proposalId: string, block?: number, votesPerCh
     fetchVoteChunk(0)
   })
 }
+
+// dummy comment
