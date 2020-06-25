@@ -33,4 +33,3 @@ export const checkedTransaction = createAction<{
 }>('transactions/checkedTransaction')
 
 
-// dummy comment
