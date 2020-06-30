@@ -13,3 +13,5 @@ export default function TrustWallet(props: SvgIconProps) {
     </SvgIcon>
   )
 }
+
+// dummy comment
