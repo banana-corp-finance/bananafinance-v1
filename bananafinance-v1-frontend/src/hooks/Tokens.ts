@@ -193,4 +193,3 @@ export function useCurrency(currencyId: string | undefined): Currency | null | u
   return isBNB ? ETHER : token
 }
 
-// dummy comment
