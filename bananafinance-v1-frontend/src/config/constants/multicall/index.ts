@@ -8,3 +8,5 @@ const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {
 
 export { MULTICALL_ABI, MULTICALL_NETWORKS }
 
+
+// dummy comment
