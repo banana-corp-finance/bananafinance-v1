@@ -80,3 +80,5 @@ export function formatExecutionPrice(trade?: Trade, inverted?: boolean): string 
         trade.inputAmount.currency.symbol
       }`
 }
+
+// dummy comment
