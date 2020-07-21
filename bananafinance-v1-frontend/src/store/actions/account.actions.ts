@@ -22,4 +22,3 @@ interface ILogOutActionType { type: string };
 
 
 
-// dummy comment
