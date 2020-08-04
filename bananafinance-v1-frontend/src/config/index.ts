@@ -48,4 +48,3 @@ export interface Language {
   locale: string
 }
 
-// dummy comment
