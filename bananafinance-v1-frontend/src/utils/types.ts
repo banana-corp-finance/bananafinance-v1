@@ -41,3 +41,5 @@ export type ChainLinkOracleLatestAnswerResponse = ethers.BigNumber
 export interface ChainLinkOracleContract extends Contract {
   latestAnswer: ContractFunction<ChainLinkOracleLatestAnswerResponse>
 }
+
+// dummy comment
