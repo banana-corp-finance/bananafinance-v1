@@ -46,4 +46,3 @@ const useBlockCountdown = (blockNumber: number) => {
 export default useBlockCountdown
 
 
-// dummy comment
