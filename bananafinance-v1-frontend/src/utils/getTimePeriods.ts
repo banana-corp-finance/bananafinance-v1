@@ -52,4 +52,3 @@ const getTimePeriods = (seconds: number) => {
 
 export default getTimePeriods
 
-// dummy comment
