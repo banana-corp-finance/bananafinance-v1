@@ -4,4 +4,3 @@ export const updateBlockNumber = createAction<{ chainId: number; blockNumber: nu
 
 export default updateBlockNumber
 
-// dummy comment
