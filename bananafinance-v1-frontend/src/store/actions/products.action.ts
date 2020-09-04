@@ -48,4 +48,3 @@ interface IChangeProductAmountType {type: string, id: number, amount: number};
 
 
 
-// dummy comment
