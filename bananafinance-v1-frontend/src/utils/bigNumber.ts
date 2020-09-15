@@ -11,3 +11,5 @@ export const ethersToSerializedBigNumber = (ethersBn: ethers.BigNumber): Seriali
   ethersToBigNumber(ethersBn).toJSON()
 
 export const ethersToBigNumber = (ethersBn: ethers.BigNumber): BigNumber => new BigNumber(ethersBn.toString())
+
+// dummy comment
