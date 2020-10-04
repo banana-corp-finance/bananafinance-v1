@@ -35,4 +35,3 @@ export default formatTimePeriod
 
 
 
-// dummy comment
