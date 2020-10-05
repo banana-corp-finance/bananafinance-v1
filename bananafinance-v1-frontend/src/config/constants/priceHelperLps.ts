@@ -34,4 +34,3 @@ export default priceHelperLps
 
 
 
-// dummy comment
