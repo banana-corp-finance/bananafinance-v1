@@ -27,4 +27,3 @@ export default useStakeFarms
 
 
 
-// dummy comment
