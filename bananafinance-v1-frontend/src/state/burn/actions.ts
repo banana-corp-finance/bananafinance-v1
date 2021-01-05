@@ -10,4 +10,3 @@ export enum Field {
 export const typeInput = createAction<{ field: Field; typedValue: string }>('burn/typeInputBurn')
 
 
-// dummy comment
