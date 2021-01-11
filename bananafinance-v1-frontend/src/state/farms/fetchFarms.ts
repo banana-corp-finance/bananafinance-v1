@@ -27,4 +27,3 @@ export default fetchFarms
 
 
 
-// dummy comment
