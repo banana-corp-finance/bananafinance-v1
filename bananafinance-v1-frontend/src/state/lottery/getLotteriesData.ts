@@ -89,4 +89,3 @@ export default getLotteriesData
 
 
 
-// dummy comment
