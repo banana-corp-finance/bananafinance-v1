@@ -27,4 +27,3 @@ export default function useIsWindowVisible(): boolean {
   return focused
 }
 
-// dummy comment
