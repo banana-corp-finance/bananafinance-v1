@@ -149,4 +149,3 @@ export const getAllVotes = async (proposalId: string, block?: number, votesPerCh
 }
 
 
-// dummy comment
