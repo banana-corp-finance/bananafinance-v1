@@ -16,4 +16,3 @@ export default function useHttpLocations(uri: string | undefined): string[] {
 }
 
 
-// dummy comment
