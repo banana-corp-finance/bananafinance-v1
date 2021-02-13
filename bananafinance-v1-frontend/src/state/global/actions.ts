@@ -6,4 +6,3 @@ export const updateVersion = createAction<void>('global/updateVersion')
 
 export default updateVersion
 
-// dummy comment
