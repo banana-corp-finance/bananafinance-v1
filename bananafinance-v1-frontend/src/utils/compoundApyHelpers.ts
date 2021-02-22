@@ -34,4 +34,3 @@ export const getRoi = ({ amountEarned, amountInvested }) => {
   return percentage
 }
 
-// dummy comment
