@@ -46,4 +46,3 @@ const useHarvestPool = (sousId, isUsingBnb = false) => {
 
 export default useHarvestPool
 
-// dummy comment
