@@ -54,3 +54,5 @@ export const updateMulticallResults = createAction<{
     [callKey: string]: string | null
   }
 }>('multicall/updateMulticallResults')
+
+// dummy comment
