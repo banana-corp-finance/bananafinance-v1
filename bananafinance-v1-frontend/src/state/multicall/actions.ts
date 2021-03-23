@@ -55,4 +55,3 @@ export const updateMulticallResults = createAction<{
   }
 }>('multicall/updateMulticallResults')
 
-// dummy comment
