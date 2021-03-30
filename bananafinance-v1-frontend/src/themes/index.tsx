@@ -32,4 +32,3 @@ const themes = {
 export default themes;
 
 
-// dummy comment
