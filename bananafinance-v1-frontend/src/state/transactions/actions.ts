@@ -32,4 +32,3 @@ export const checkedTransaction = createAction<{
   blockNumber: number
 }>('transactions/checkedTransaction')
 
-// dummy comment
