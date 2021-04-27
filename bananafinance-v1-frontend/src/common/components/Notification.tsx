@@ -44,4 +44,3 @@ const Notifications: React.FC = () => {
 
 export default Notifications;
 
-// dummy comment
