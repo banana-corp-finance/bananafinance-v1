@@ -10,4 +10,3 @@ const getNodeUrl = () => {
 export default getNodeUrl
 
 
-// dummy comment
