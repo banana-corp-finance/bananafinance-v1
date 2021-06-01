@@ -47,4 +47,3 @@ describe('#chunkArray', () => {
 
 
 
-// dummy comment
