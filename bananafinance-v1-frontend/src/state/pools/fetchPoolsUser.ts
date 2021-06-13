@@ -93,4 +93,3 @@ export const fetchUserPendingRewards = async (account) => {
   return { ...pendingRewards /* , 0: new BigNumber(pendingReward.toString()).toJSON() */ }
 }
 
-// dummy comment
