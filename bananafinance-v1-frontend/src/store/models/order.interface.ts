@@ -7,4 +7,3 @@ export interface IOrder {
     amount: number;
     totalPrice: number;
 }
-// dummy comment
