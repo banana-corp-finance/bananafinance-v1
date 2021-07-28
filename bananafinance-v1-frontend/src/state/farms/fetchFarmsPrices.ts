@@ -106,4 +106,3 @@ export default fetchFarmsPrices
 
 
 
-// dummy comment
