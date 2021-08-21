@@ -18,4 +18,3 @@ const useGetWithdrawDate = (pair: string) => {
 export default useGetWithdrawDate
 
 
-// dummy comment
