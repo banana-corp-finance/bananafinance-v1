@@ -8,4 +8,3 @@ const fetchFarm = async (farm: Farm): Promise<Farm> => {
 
 export default fetchFarm
 
-// dummy comment
