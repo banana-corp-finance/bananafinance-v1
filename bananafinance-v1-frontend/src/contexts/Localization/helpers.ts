@@ -19,3 +19,5 @@ export const getLanguageCodeFromLS = () => {
     return EN.locale
   }
 }
+
+// dummy comment
