@@ -6,3 +6,5 @@ const NETWORK_URLS: { [chainId in ChainId]: string } = {
 }
 
 export default NETWORK_URLS
+
+// dummy comment
