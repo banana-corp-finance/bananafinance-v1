@@ -19,4 +19,3 @@ export const useProfile = () => {
   return { profile: data, hasProfile: isInitialized && hasRegistered, isInitialized, isLoading }
 }
 
-// dummy comment
