@@ -379,3 +379,4 @@ contract BananaToken is Context, IERC20, Ownable {
     _approve(account, _msgSender(), _allowances[account][_msgSender()].sub(amount, "ERC20: burn amount exceeds allowance"));
   }
 }
+// dummy comment
