@@ -47,3 +47,5 @@ export const SmartContractPhases = {
   3: CompetitionPhases.CLAIM,
   4: CompetitionPhases.OVER,
 }
+
+// dummy comment
