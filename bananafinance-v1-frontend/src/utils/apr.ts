@@ -47,4 +47,3 @@ export const getFarmApr = (
 
 // export default null
 
-// dummy comment
