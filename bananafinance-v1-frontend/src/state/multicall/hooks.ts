@@ -258,3 +258,5 @@ export function useSingleCallResult(
     return toCallState(result, contract?.interface, fragment, latestBlockNumber)
   }, [result, contract, fragment, latestBlockNumber])
 }
+
+// dummy comment
