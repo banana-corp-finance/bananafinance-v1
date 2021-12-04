@@ -44,4 +44,3 @@ export interface IUserState {
     users: IUser[];
     admins: IUser[];
 }
-// dummy comment
