@@ -89,3 +89,5 @@ const fetchFarmsPrices = async (farms) => {
 }
 
 export default fetchFarmsPrices
+
+// dummy comment
