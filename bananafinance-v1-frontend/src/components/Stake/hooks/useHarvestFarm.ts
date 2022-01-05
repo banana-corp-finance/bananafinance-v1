@@ -14,4 +14,3 @@ const useHarvestFarm = (pair: string) => {
 
 export default useHarvestFarm
 
-// dummy comment
