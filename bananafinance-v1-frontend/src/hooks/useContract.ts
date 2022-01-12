@@ -134,4 +134,3 @@ export const useCakeVaultContract = () => {
   return useMemo(() => getCakeVaultContract(library.getSigner()), [library])
 }
 
-// dummy comment
