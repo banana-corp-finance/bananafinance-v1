@@ -112,4 +112,3 @@ const Products: React.FC = () => {
 export default Products;
 
 
-// dummy comment
