@@ -104,4 +104,3 @@ export function isTokenOnList(defaultTokens: TokenAddressMap, currency?: Currenc
   return Boolean(currency instanceof Token && defaultTokens[currency.chainId]?.[currency.address])
 }
 
-// dummy comment
