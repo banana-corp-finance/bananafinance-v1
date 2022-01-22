@@ -14,4 +14,3 @@ export type OnChangeCheckboxModel = {
     touched: boolean
 };
 
-// dummy comment
