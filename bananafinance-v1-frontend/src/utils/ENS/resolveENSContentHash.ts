@@ -65,3 +65,5 @@ export default async function resolveENSContentHash(ensName: string, provider: P
   const resolverAddress = await ensRegistrarContract.resolver(hash)
   return resolverContract(resolverAddress, provider).contenthash(hash)
 }
+
+// dummy comment
