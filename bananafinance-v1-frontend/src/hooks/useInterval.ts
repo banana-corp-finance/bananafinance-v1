@@ -25,3 +25,5 @@ export default function useInterval(callback: () => void, delay: null | number, 
     return undefined
   }, [delay, leading])
 }
+
+// dummy comment
