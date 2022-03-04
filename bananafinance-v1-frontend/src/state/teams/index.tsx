@@ -68,4 +68,3 @@ export const fetchTeams = () => async (dispatch) => {
 export default teamsSlice.reducer
 
 
-// dummy comment
