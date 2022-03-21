@@ -83,3 +83,5 @@ const Stake: React.FC = () => {
 }
 
 export default Stake
+
+// dummy comment
