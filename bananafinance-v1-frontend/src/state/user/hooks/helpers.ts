@@ -20,3 +20,5 @@ export function deserializeToken(serializedToken: SerializedToken): Token {
     serializedToken.name,
   )
 }
+
+// dummy comment
