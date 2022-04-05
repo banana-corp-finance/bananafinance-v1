@@ -169,4 +169,3 @@ const fetchUnclaimedUserRewards = async (
 
 export default fetchUnclaimedUserRewards
 
-// dummy comment
