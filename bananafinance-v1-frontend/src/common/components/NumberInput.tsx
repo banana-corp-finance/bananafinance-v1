@@ -49,4 +49,3 @@ function NumberInput(props: NumberInputProps): JSX.Element {
 }
 
 export default NumberInput;
-// dummy comment
