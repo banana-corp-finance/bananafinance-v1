@@ -13,4 +13,3 @@ export type OnChangeCheckboxModel = {
     error: string,
     touched: boolean
 };
-// dummy comment
