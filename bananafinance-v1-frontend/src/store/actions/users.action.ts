@@ -14,3 +14,5 @@ export function removeAdmin(user: IUser): IRemoveAdminActionType {
 
 interface IAddAdminActionType { type: string, user: IUser };
 interface IRemoveAdminActionType { type: string, user: IUser };
+
+// dummy comment
