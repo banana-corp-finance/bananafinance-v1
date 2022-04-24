@@ -14,4 +14,3 @@ interface Window {
 
 
 
-// dummy comment
