@@ -68,4 +68,3 @@ export const fetchUserTicketsForMultipleRounds = async (
   return ticketsForMultipleRounds
 }
 
-// dummy comment
