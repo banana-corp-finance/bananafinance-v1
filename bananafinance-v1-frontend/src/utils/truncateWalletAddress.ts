@@ -8,4 +8,3 @@ const truncateWalletAddress = (address: string, startLength = 4, endLength = 4) 
 export default truncateWalletAddress
 
 
-// dummy comment
