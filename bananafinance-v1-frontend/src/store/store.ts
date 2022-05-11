@@ -9,3 +9,4 @@ const store: Store = createStore(rootReducers, applyMiddleware(
 
 store.subscribe(() => {});
 export default store;
+// dummy comment
