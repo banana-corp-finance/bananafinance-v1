@@ -78,4 +78,3 @@ const Joincard: React.FC<{ isActive: boolean; subtitle: string; iconSrc: string;
 
 export default Joincard
 
-// dummy comment
