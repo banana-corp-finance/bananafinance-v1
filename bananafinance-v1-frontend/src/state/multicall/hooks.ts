@@ -259,3 +259,5 @@ export function useSingleCallResult(
   }, [result, contract, fragment, latestBlockNumber])
 }
 
+
+// dummy comment
