@@ -30,4 +30,3 @@ const Loading = styled.div`
 
 export default Loading
 
-// dummy comment
