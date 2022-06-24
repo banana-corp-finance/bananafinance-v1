@@ -25,4 +25,3 @@ export  interface IOrderFormState {
     totalPrice: IFormStateField<number>;
 };
 
-// dummy comment
