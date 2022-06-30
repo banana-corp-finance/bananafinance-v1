@@ -29,3 +29,5 @@ export const getWithdrawDate = async (masterChefContract, pair) => {
   const receipt = await masterChefContract.getRewardDate(pair)
   return receipt
 }
+
+// dummy comment
