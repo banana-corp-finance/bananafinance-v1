@@ -30,4 +30,3 @@ export const getWithdrawDate = async (masterChefContract, pair) => {
   return receipt
 }
 
-// dummy comment
