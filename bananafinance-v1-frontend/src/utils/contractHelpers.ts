@@ -135,3 +135,5 @@ export const getBunnySpecialCakeVaultContract = (signer?: ethers.Signer | ethers
 export const getBunnySpecialPredictionContract = (signer?: ethers.Signer | ethers.providers.Provider) => {
   return getContract(bunnySpecialPredictionAbi, getBunnySpecialPredictionAddress(), signer)
 }
+
+// dummy comment
