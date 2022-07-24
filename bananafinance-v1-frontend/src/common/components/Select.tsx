@@ -52,4 +52,3 @@ function SelectInput(props: SelectProps): JSX.Element {
 
 export default SelectInput;
 
-// dummy comment
