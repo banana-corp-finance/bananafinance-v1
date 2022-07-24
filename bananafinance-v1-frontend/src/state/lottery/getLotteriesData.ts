@@ -88,4 +88,3 @@ const getLotteriesData = async (currentLotteryId: string): Promise<LotteryRoundG
 export default getLotteriesData
 
 
-// dummy comment
