@@ -180,3 +180,5 @@ export const hasRoundBeenClaimed = (tickets: LotteryTicket[]): boolean => {
   const claimedTickets = tickets.filter((ticket) => ticket.status)
   return claimedTickets.length > 0
 }
+
+// dummy comment
