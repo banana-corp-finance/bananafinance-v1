@@ -181,4 +181,3 @@ export const hasRoundBeenClaimed = (tickets: LotteryTicket[]): boolean => {
   return claimedTickets.length > 0
 }
 
-// dummy comment
