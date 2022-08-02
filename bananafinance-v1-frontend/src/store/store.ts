@@ -11,4 +11,3 @@ store.subscribe(() => {});
 export default store;
 
 
-// dummy comment
