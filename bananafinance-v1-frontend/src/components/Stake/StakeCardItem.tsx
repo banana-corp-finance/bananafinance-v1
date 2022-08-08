@@ -492,4 +492,3 @@ const StakeCardItem: React.FC<{ farm: FarmWithStakedValue; earnToken: string; ac
 
 export default StakeCardItem
 
-// dummy comment
