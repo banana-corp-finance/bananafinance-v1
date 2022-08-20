@@ -62,3 +62,5 @@ export const registerToken = async (tokenAddress: string, tokenSymbol: string, t
 
   return tokenAdded
 }
+
+// dummy comment
