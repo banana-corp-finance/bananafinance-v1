@@ -63,4 +63,3 @@ export const getBunnySpecialPredictionAddress = () => {
   return getAddress(addresses.bunnySpecialPrediction)
 }
 
-// dummy comment
