@@ -48,3 +48,5 @@ export const SmartContractPhases = {
   4: CompetitionPhases.OVER,
 }
 
+
+// dummy comment
