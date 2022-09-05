@@ -11,4 +11,3 @@ const defaultTheme = {
 export default defaultTheme;
 
 
-// dummy comment
