@@ -60,3 +60,5 @@ export const formatFixedNumber = (number: ethers.FixedNumber, displayDecimals = 
   const [leftSide] = number.toString().split('.')
   return formatBigNumber(ethers.BigNumber.from(leftSide), displayDecimals, decimals)
 }
+
+// dummy comment
