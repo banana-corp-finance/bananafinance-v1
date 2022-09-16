@@ -15,4 +15,3 @@ const getLiquidityUrlPathParts = ({ quoteTokenAddress, tokenAddress }) => {
 
 export default getLiquidityUrlPathParts
 
-// dummy comment
