@@ -8,4 +8,3 @@ const useRefresh = () => {
 
 export default useRefresh
 
-// dummy comment
