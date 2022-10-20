@@ -54,4 +54,3 @@ export const SmartContractPhases = {
 
 
 
-// dummy comment
