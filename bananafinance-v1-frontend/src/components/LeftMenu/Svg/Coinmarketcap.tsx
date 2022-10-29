@@ -12,3 +12,5 @@ export default function Coinmarketcap(props: SvgIconProps) {
     </SvgIcon>
   )
 }
+
+// dummy comment
