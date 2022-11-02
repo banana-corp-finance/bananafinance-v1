@@ -480,3 +480,5 @@ export interface State {
   voting: VotingState
   lottery: LotteryState
 }
+
+// dummy comment
