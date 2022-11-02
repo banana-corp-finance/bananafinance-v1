@@ -18,4 +18,3 @@ export const filterFarmsByQuoteToken = (farms: Farm[], preferredQuoteTokens: str
 export default filterFarmsByQuoteToken
 
 
-// dummy comment
