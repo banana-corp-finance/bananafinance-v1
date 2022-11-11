@@ -13,3 +13,5 @@ interface IAddNotificationActionType { type: string, text: string, title: string
 interface IRemoveNotificationActionType { type: string, id: number };
 
 
+
+// dummy comment
