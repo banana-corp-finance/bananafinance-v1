@@ -14,4 +14,3 @@ export default isArchivedPid
 
 
 
-// dummy comment
