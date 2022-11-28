@@ -76,4 +76,3 @@ const pools: PoolConfig[] = [
 
 export default pools
 
-// dummy comment
