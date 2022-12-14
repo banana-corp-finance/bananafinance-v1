@@ -5,4 +5,3 @@ export interface ICardProperties {
     class: string;
 }
 
-// dummy comment
