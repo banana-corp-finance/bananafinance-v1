@@ -4,3 +4,5 @@ export interface ICardProperties {
     icon: string;
     class: string;
 }
+
+// dummy comment
