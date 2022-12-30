@@ -44,4 +44,3 @@ function TopMenuAccount(): JSX.Element {
 
 export default TopMenuAccount
 
-// dummy comment
